@@ -72,10 +72,14 @@ Built with **Streamlit**, **Plotly**, and custom UI components, it delivers inst
 
 | Home (Hero) | Form | Results |
 |---|---|---|
-| ![](![Uploading image.png…]()
-) | ![](screenshots/form.png) | ![](screenshots/results.png) |
+| ![](<img width="699" height="498" alt="image" src="https://github.com/user-attachments/assets/6d47673d-2477-4581-b121-7ea63282e608" />
+) | ![]() | ![](<img width="1450" height="407" alt="image" src="https://github.com/user-attachments/assets/e8f24fb1-5420-4ac8-bac8-073cf7f5c6fc" />
+) |
+<img width="1572" height="665" alt="image" src="https://github.com/user-attachments/assets/1464ce73-d216-4a6d-b2b0-5946e431831e" />
+![Uploading image.png…]()
 
-> *(Add your own images to the `/screenshots` folder!)*
+
+> 
 
 ---
 
