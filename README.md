@@ -70,8 +70,7 @@ Built with **Streamlit**, **Plotly**, and custom UI components, it delivers inst
 
 ## 🖼️ Screenshots
 
-| Home (Hero) | Form | Results |
-|---|---|---|
+
 | ![Hero Screenshot](https://github.com/user-attachments/assets/6d47673d-2477-4581-b121-7ea63282e608) | ![Form Screenshot](https://github.com/user-attachments/assets/e8f24fb1-5420-4ac8-bac8-073cf7f5c6fc) | ![Results Screenshot](https://github.com/user-attachments/assets/1464ce73-d216-4a6d-b2b0-5946e431831e) |
 
 <!-- More screenshots below (optional) -->
